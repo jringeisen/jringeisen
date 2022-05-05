@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- My first project that I turned into a business was acquired on https://microacquire.com/.
 - 🔭 I’m currently working on a content creation platform called [Wordsmith](https://usewordsmith.com).
 - 🌱 I’m currently learning Laravel Livewire
 - 💬 Ask me about anything related to the Laravel ecosystem.
